@@ -1,0 +1,28 @@
+{
+  "name": "logbook_automation",
+  "version": "1.0.0",
+  "description": "Logbook Automation Created together by binus polytron",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octavialyana/Logbook_Automation.git"
+  },
+  "keywords": [
+    "Automation",
+    "script",
+    "node"
+  ],
+  "author": "Binus polytron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octavialyana/Logbook_Automation/issues"
+  },
+  "homepage": "https://github.com/octavialyana/Logbook_Automation#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.3.1"
+  }
+}
